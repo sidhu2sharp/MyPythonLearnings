@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Sep 18 18:51:24 2021
+@description: Program to find most frequently occuring value (smallest if there is a contention)
+@author: Siddharth Ranganatha
+"""
 from collections import Counter
 
 n = int(input())
